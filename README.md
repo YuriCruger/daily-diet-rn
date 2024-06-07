@@ -26,3 +26,7 @@ Este é um projeto desenvolvido em React Native como parte do desafio da trilha 
 2. Navegue até o diretório do projeto.
 3. Instale as dependências do projeto utilizando o comando `npm install`.
 4. Execute a aplicação utilizando um emulador Android ou iOS, ou em um dispositivo físico conectado, utilizando o comando `npx expo start`.
+
+## Projeto do backend em node.js
+
+`https://github.com/YuriCruger/daily-diet-challenge`

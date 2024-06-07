@@ -70,6 +70,4 @@ export const EmptyComponent = styled.Text`
     font-size: ${theme.FONT_SIZE.M}px;
     font-family: ${theme.FONT_FAMILY.REGULAR};
   `}
-  text-align: center;
-  margin-top: 40px;
 `;

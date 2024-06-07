@@ -114,6 +114,13 @@ export function Home() {
         )}
         showsVerticalScrollIndicator={false}
         ListFooterComponent={<S.ListFooterComponent />}
+        contentContainerStyle={
+          mealSection.length === 0 && {
+            flex: 1,
+            justifyContent: "center",
+            alignItems: "center",
+          }
+        }
         ListEmptyComponent={
           <S.EmptyComponent>Nenhuma refeição cadastrada.</S.EmptyComponent>
         }
